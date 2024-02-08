@@ -1,0 +1,11 @@
+Top Import "config.lua"
+Import "main.lua"
+
+To "Scripts/ConditionalItemData.lua"
+Import "Data/ConditionalItemData.lua"
+
+To "Scripts/TextLineSets.lua"
+Import "Data/TextLineSets.lua"
+
+To "Game/Text/en/HelpText.en.sjson"
+SJSON "Game/Text/en/HelpText.en.sjson"
